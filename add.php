@@ -1,8 +1,6 @@
 <? php
 
-function (a, b){
-
-reurn a + b;
+function addition (a, b){
 
 }
 
