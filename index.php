@@ -1,4 +1,6 @@
-:i
 <?php 
 
-echo "hello worl";
+echo "hello world";
+
+
+echo "je GIT";
