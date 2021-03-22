@@ -1,7 +1,7 @@
 <?php
 
 echo "Hello World !";
-echo " This was edited from GithHub";
+echo " This was edited from GitHub";
 
 require 'addition.php';
 
